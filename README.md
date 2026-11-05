@@ -229,3 +229,5 @@ Um verificador determinístico pontua o SQL de cada braço por coincidência de 
 Guía elaborada a partir de la documentación oficial del proyecto · Guia elaborada a partir da documentação oficial do projeto. El software pertenece a sus autores · O software pertence aos seus autores.
 
 Licencias: Auto-Ontology es Apache-2.0; esta guía se publica bajo licencia MIT. · Licenças: o Auto-Ontology é Apache-2.0; este guia é publicado sob a licença MIT.
+
+📣 Telegram 频道：https://t.me/EzraZhao777（各平台的更新都同步到这里）
