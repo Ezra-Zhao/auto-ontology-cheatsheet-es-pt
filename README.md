@@ -1,5 +1,7 @@
 # Auto-Ontology (NVIDIA) · Guía rápida en español y portugués
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 [![Repo original](https://img.shields.io/github/stars/NVIDIA/auto-ontology?style=social)](https://github.com/NVIDIA/auto-ontology/stargazers) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > 🌍 Español primero · Português mais abaixo · Proyecto original: [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
